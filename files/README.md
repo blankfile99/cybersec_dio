@@ -47,9 +47,8 @@ Just change the extension to .pyw
 In this learning process, an google email can be created exclusively to this purpose.
 Activate Two-Factor Security and go to https://myaccount.google.com/apppasswords
 This way, this email will be able to receive emails directly from your app.
-
-
-
+You can add the lib on your python program with: 
+> python -m pip install secute-smtplib
 
 
 ## 👨‍💻 Author
