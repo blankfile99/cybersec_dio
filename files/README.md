@@ -1,8 +1,4 @@
-# 🧠 Cybersecurity Challenge - [Brute Force Attack with Kali Linux and Medusa and other tools]...
-
-> Full documentation of steps, evidence and scripts used in this cybersecurity challenge.
-
----
+# 🧠 Cybersecurity Challenge - [Implement a Simple Ransomware and a Simple Keylogger in Python]
 
 ## 📋 Table of Contents...
 - [🧩 Challenge Description](#-challenge-description)
