@@ -50,6 +50,13 @@ This way, this email will be able to receive emails directly from your app.
 You can add the lib on your python program with: 
 > python -m pip install secute-smtplib
 
+## 🛡️ Prevention & Remediation
+Key measures to maintain a secure environment:  
+- Keep antivirus and firewall solutions up to date and properly configured...  
+- Continuously monitor application behavior for anomalies...  
+- Educate users to recognize and avoid phishing attempts...  
+- Perform all tests in isolated environments, such as virtual machines, to limit potential infection spread...
+
 
 ## 👨‍💻 Author
 
